@@ -1,0 +1,3 @@
+SGYY.txt为原始数据
+SGYY.jsonl为问答抽取后的数据
+dataset.json为预处理后的json数据
